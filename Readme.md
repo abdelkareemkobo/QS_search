@@ -9,10 +9,10 @@
 ## TODO
 
 - [x] Build a FastAPI version with Tailwind CSS.
-- [ ] Build a more user-friendly Streamlit version.
-  - [ ] Improve readability and styling.
-  - [ ] Fix the date filter for better filtering.
-  - [ ] Implement a way to upload the data you want the model to preprocess.
+- [x] Build a more user-friendly Streamlit version.
+  - [x] Improve readability and styling.
+  - [x] Fix the date filter for better filtering.
+  - [x] Implement a way to upload the data you want the model to preprocess.
 - [ ] Build a version with FastEmbed for even faster searching.
 
 ## References
